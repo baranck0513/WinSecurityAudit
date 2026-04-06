@@ -1,0 +1,28 @@
+# .NET build output
+bin/
+obj/
+*.user
+.vs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller / distribution
+dist/
+build/
+*.spec
+dissertation.exe
+
+# Misc
+.env
+*.log
+Thumbs.db
+.DS_Store
