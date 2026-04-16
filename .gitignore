@@ -26,3 +26,30 @@ dissertation.exe
 *.log
 Thumbs.db
 .DS_Store
+
+# IDE / editor settings
+.idea/
+.vscode/
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Test output
+TestResults/
+*.trx
+coverage.*
+*.coverage
+*.coveragexml
+
+# MSBuild / NuGet
+*.binlog
+packages/
+*.nupkg
+
+# Research / personal notes (not part of project)
+*.pdf
+!docs/**/*.pdf 
+
+# OS / misc
+desktop.ini
+$RECYCLE.BIN/
